@@ -1,0 +1,2 @@
+# DynamicQr
+GDSC-Dynamicqr
