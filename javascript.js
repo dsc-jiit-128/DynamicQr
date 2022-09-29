@@ -6,7 +6,7 @@ console.log(timer)
 
 const redirect = () => {
   window.location.replace(
-    'https://gdsc.community.dev/events/details/developer-student-clubs-jaypee-institute-of-information-technology-sector-128-noida-presents-hands-on-workshop-on-git-github/',
+    'https://instagram.com/gdscj128',
   )
 }
 
