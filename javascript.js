@@ -6,7 +6,7 @@ console.log(timer)
 
 const redirect = () => {
   window.location.replace(
-    'https://instagram.com/gdscj128',
+    'https://dsc-jiit-128.github.io/DynamicQr/',
   )
 }
 
