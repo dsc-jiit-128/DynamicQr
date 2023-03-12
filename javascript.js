@@ -6,7 +6,7 @@ console.log(timer)
 
 const redirect = () => {
   window.location.replace(
-    'https://gdsc.community.dev/e/mm9wrv/',
+    'https://gdsc.community.dev/e/m6fgjz/',
   )
 }
 
