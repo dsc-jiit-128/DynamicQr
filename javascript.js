@@ -6,7 +6,7 @@ console.log(timer)
 
 const redirect = () => {
   window.location.replace(
-    'https://gdsc.community.dev/e/m6fgjz/',
+    'https://chat.whatsapp.com/EfJPqRp2Wf4A4LfIgX6Ysr',
   )
 }
 
