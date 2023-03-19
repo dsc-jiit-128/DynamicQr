@@ -24,21 +24,21 @@ const redirect = () => {
   } else if (window.location.search == "?hunt=vishesh"){
 
     window.location.replace(
-      'https://gdsc.community.dev/e/m6ctmp/',
+      'https://github.com/entropyconquers',
     )
     return;
 
   } else if (window.location.search == "?hunt=tanay"){
 
     window.location.replace(
-      'https://gdsc.community.dev/e/m6ctmp/',
+      'https://github.com/TanayK07',
     )
     return;
 
   } else if (window.location.search == "?hunt=sanat"){
 
     window.location.replace(
-      'https://gdsc.community.dev/e/m6ctmp/',
+      '',
     )
     return;
 
