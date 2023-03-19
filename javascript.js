@@ -7,35 +7,35 @@ console.log(timer)
 const redirect = () => {
   console.log(window.location.search);
 
-  if (window.location.search == "/DynamicQr/"){
+  if (window.location.search == nil){
 
     window.location.replace(
       'https://gdsc.community.dev/e/m6ctmp/',
     )
     return;
 
-  } else if (window.location.search == "/DynamicQr/sahil"){
+  } else if (window.location.search == "?chase=sahil"){
 
     window.location.replace(
       'https://github.com/Sandhu-Sahil',
     )
     return;
 
-  } else if (window.location.search == "/DynamicQr/vishesh"){
+  } else if (window.location.search == "?chase=vishesh"){
 
     window.location.replace(
       'https://gdsc.community.dev/e/m6ctmp/',
     )
     return;
 
-  } else if (window.location.search == "/DynamicQr/tanay"){
+  } else if (window.location.search == "?chase=tanay"){
 
     window.location.replace(
       'https://gdsc.community.dev/e/m6ctmp/',
     )
     return;
 
-  } else if (window.location.search == "/DynamicQr/sanat"){
+  } else if (window.location.search == "?chase=sanat"){
 
     window.location.replace(
       'https://gdsc.community.dev/e/m6ctmp/',
