@@ -38,7 +38,7 @@ const redirect = () => {
   } else if (window.location.search == "?hunt=sanat"){
 
     window.location.replace(
-      '',
+      'https://instagram.com/sanatbhatia?igshid=YmMyMTA2M2Y=',
     )
     return;
 
