@@ -10,7 +10,7 @@ const redirect = () => {
   if (window.location.search == ""){
 
     window.location.replace(
-      'https://gdsc.community.dev/e/m6ctmp/',
+      'https://gdsc-jiit128.netlify.app/bitbox',
     )
     return;
 
