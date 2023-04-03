@@ -6,8 +6,8 @@ GDSC-Dynamicqr
 # Links
 https://dsc-jiit-128.github.io/DynamicQr/
 
-https://dsc-jiit-128.github.io/DynamicQr/?hunt=vishesh <br>
 https://dsc-jiit-128.github.io/DynamicQr/?hunt=sahil <br>
+https://dsc-jiit-128.github.io/DynamicQr/?hunt=vishesh <br>
 https://dsc-jiit-128.github.io/DynamicQr/?hunt=tanay <br>
 https://dsc-jiit-128.github.io/DynamicQr/?hunt=sanat <br>
 
