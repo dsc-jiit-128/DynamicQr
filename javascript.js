@@ -42,6 +42,13 @@ const redirect = () => {
     )
     return;
 
+  } else if (window.location.search == "?hunt=entry"){
+
+    window.location.replace(
+      'https://gdsc-jiit128.tech/bitbox-validation',
+    )
+    return;
+
   }
 
   // window.location.replace(
