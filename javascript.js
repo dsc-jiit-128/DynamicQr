@@ -49,11 +49,18 @@ const redirect = () => {
     )
     return;
 
+  } else if (window.location.search == "?hunt=CrypticHunt"){
+
+    window.location.replace(
+      'https://media.tenor.com/rQvNxF5JMbYAAAAM/dog-slap.gif',
+    )
+    return;
+
   }
 
   // window.location.replace(
   //   'https://gdsc.community.dev/e/m6ctmp/',
-  // )
+  // ) 
 }
 
 setTimeout(() => {
