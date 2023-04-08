@@ -12,3 +12,4 @@ https://dsc-jiit-128.github.io/DynamicQr/?hunt=tanay <br>
 https://dsc-jiit-128.github.io/DynamicQr/?hunt=sanat <br>
 
 https://dsc-jiit-128.github.io/DynamicQr/?hunt=entry 
+https://dsc-jiit-128.github.io/DynamicQr/?hunt=CrypticHunt 
