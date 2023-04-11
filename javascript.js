@@ -52,7 +52,7 @@ const redirect = () => {
   } else if (window.location.search == "?hunt=CrypticHunt"){
 
     window.location.replace(
-      'https://media.tenor.com/rQvNxF5JMbYAAAAM/dog-slap.gif',
+      'https://cypher-dash.netlify.app/',
     )
     return;
 
