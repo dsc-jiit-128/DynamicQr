@@ -56,6 +56,13 @@ const redirect = () => {
     )
     return;
 
+  } else if (window.location.search == "?hunt=CipherDash"){
+
+    window.location.replace(
+      'https://cypher-dash.netlify.app/',
+    )
+    return;
+
   }
 
   // window.location.replace(
