@@ -10,7 +10,7 @@ const redirect = () => {
   if (window.location.search == ""){
 
     window.location.replace(
-      'https://gdsc-jiit128.tech/bitbox',
+      'https://forms.gle/BqwBqNe3bHcFDhEV7',
     )
     return;
 
