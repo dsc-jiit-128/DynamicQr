@@ -10,7 +10,7 @@ const redirect = () => {
   if (window.location.search == ""){
 
     window.location.replace(
-      'https://gdsc.community.dev/events/details/developer-student-clubs-jaypee-institute-of-information-technology-sector-128-noida-presents-gdsc-jiit-128-unveiled-building-tomorrows-tech-leaders-today/',
+      'https://gdsc.community.dev/events/details/developer-student-clubs-jaypee-institute-of-information-technology-sector-128-noida-presents-speaker-session-road-to-find-an-amazing-internship-opportunity/',
     )
     return;
 
