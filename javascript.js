@@ -10,7 +10,7 @@ const redirect = () => {
   if (window.location.search == ""){
 
     window.location.replace(
-      'https://gdsc.community.dev/events/details/developer-student-clubs-jaypee-institute-of-information-technology-sector-128-noida-presents-git-amp-github-session/',
+      'https://gdsc.community.dev/events/details/developer-student-clubs-jaypee-institute-of-information-technology-sector-128-noida-presents-aiml-session/',
     )
     return;
 
