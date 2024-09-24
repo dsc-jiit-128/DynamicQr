@@ -10,7 +10,7 @@ const redirect = () => {
   if (window.location.search == ""){
 
     window.location.replace(
-      'https://bitbox-4-gfc5hyh.devfolio.co/',
+      'https://gdg.community.dev/e/m6jj8r/',
     )
     return;
 
